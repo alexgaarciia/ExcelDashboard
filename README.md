@@ -1,0 +1,1 @@
+For the subject of Advanced knowledge of Spreadsheets, a final project had to be done to test all the knowledge we learned. The project had to generate as outcome a dashboard as entry point for end-users in which it will be possible to operate, browse, analyze, and exploit all elements from a numerical, textual and graphical perspectives.
